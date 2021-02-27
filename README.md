@@ -20,3 +20,5 @@ query {
   }
 }
 ```
+
+See also https://github.com/arshad/gatsby-theme-twentytwentyone
